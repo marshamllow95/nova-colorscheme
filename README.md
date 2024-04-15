@@ -1,1 +1,1 @@
-## Colorscheme for neovim and Alacritty based on the Nova colorscheme for Emacs.
+## Colorscheme for neovim (basic) and Alacritty based on the Nova colorscheme for Emacs.
